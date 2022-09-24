@@ -1,0 +1,232 @@
+#,Region,Country/Territory,2000,2011,2021 population (thousands),2030,2045,Type,Tpye1 diabetes 0-19 (thousands)
+1,Africa,Africa,N/A,N/A,"589,563.90",N/A,N/A,Region,59.5
+2,Europe,Europe,N/A,N/A,"221,820.00",N/A,N/A,Region,294.9
+3,Middle East and North Africa,Middle East and North Africa,N/A,N/A,"317,844.10",N/A,N/A,Region,192.5
+4,North America and Caribbean,North America and Caribbean,N/A,N/A,"141,783.20",N/A,N/A,Region,192.5
+5,South and Central America,South and Central America,N/A,N/A,"156,962.80",N/A,N/A,Region,121.3
+6,South-East Asia,South-East Asia,N/A,N/A,"563,552.20",N/A,N/A,Region,244.5
+7,Western Pacific,Western Pacific,N/A,N/A,"616,185.80",N/A,N/A,Region,107.9
+8,Middle East and North Africa,Afghanistan,-,-,"21,141.40",-,-,Country,3.5
+9,Europe,Albania,-,-,680.4,-,-,Country,0.5
+10,Middle East and North Africa,Algeria,-,-,"16,817.60",-,-,Country,50.8
+11,Western Pacific,American Samoa,-,-,20.8,-,-,Country,0
+12,Europe,Andorra,-,-,14.4,-,-,Country,0
+13,Africa,Angola,-,-,"19,340.70",-,-,Country,2.4
+14,North America and Caribbean,Anguilla,-,-,-,-,-,Country,-
+15,North America and Caribbean,Antigua and Barbuda,-,-,28.4,-,-,Country,0
+16,South and Central America,Argentina,-,-,"14,620.20",-,-,Country,8.6
+17,Europe,Armenia,-,-,790.6,-,-,Country,0.5
+18,North America and Caribbean,Aruba,-,-,25.7,-,-,Country,0
+19,Western Pacific,Australia,-,-,"6,530.60",-,-,Country,14.9
+20,Europe,Austria,-,-,"1,756.50",-,-,Country,3.6
+21,Europe,Azerbaijan,-,-,"3,031.90",-,-,Country,1.9
+22,North America and Caribbean,Bahamas,-,-,117,-,-,Country,0.1
+23,Middle East and North Africa,Bahrain,-,-,413.6,-,-,Country,0.1
+24,South-East Asia,Bangladesh,-,-,"59,226.70",-,-,Country,5.9
+25,North America and Caribbean,Barbados,-,-,66.4,-,-,Country,0
+26,Europe,Belarus,-,-,"2,084.90",-,-,Country,1.1
+27,Europe,Belgium,-,-,"2,621.10",-,-,Country,4.3
+28,North America and Caribbean,Belize,-,-,156.4,-,-,Country,0.1
+29,Africa,Benin,-,-,"6,520.60",-,-,Country,0.5
+30,North America and Caribbean,Bermuda,-,-,15.1,-,-,Country,0
+31,South-East Asia,Bhutan,-,-,260.3,-,-,Country,0.1
+32,South and Central America,Bolivia (Plurinational State of),-,-,"4,667.80",-,-,Country,0.9
+33,Europe,Bosnia and Herzegovina,-,-,628.6,-,-,Country,0.5
+34,Africa,Botswana,-,-,"1,022.00",-,-,Country,0.1
+35,South and Central America,Brazil,-,-,"59,701.50",-,-,Country,92.4
+36,North America and Caribbean,British Virgin Islands,-,-,7.3,-,-,Country,0
+37,Western Pacific,Brunei Darussalam,-,-,130,-,-,Country,0
+38,Europe,Bulgaria,-,-,"1,337.20",-,-,Country,1.1
+39,Africa,Burkina Faso,-,-,"11,857.90",-,-,Country,0.3
+40,Africa,Burundi,-,-,"6,786.50",-,-,Country,0.6
+41,Africa,Cabo Verde,-,-,204,-,-,Country,0
+42,Western Pacific,Cambodia,-,-,"6,674.70",-,-,Country,0.6
+43,Africa,Cameroon,-,-,"14,315.40",-,-,Country,1.5
+44,North America and Caribbean,Canada,-,-,"7,999.80",-,-,Country,19.8
+45,North America and Caribbean,Cayman Islands,-,-,20.8,-,-,Country,0
+46,Africa,Central African Republic,-,-,"2,727.20",-,-,Country,0
+47,Africa,Chad,-,-,"9,731.50",-,-,Country,0.1
+48,Europe,Channel Islands,-,-,35.4,-,-,Country,0.1
+49,South and Central America,Chile,-,-,"4,888.50",-,-,Country,6
+50,Western Pacific,China,-,-,"336,356.30",-,-,Country,56
+51,Western Pacific,"China, Hong Kong SAR",-,-,"1,248.60",-,-,Country,0.5
+52,Western Pacific,"China, Macao SAR",-,-,118.8,-,-,Country,0
+53,South and Central America,Colombia,-,-,"15,391.10",-,-,Country,3.2
+54,Africa,Comoros,-,-,435.8,-,-,Country,0
+55,Africa,Congo,-,-,"2,910.60",-,-,Country,0.5
+56,Western Pacific,Cook Islands,-,-,-,-,-,Country,-
+57,South and Central America,Costa Rica,-,-,"1,417.30",-,-,Country,0.3
+58,Europe,Croatia,-,-,786.1,-,-,Country,1.3
+59,South and Central America,Cuba,-,-,"2,410.30",-,-,Country,0.5
+60,North America and Caribbean,Curaçao,-,-,40.3,-,-,Country,0
+61,Europe,Cyprus,-,-,273.7,-,-,Country,0.4
+62,Europe,Czechia,-,-,"2,203.00",-,-,Country,4.3
+63,Africa,Côte d'Ivoire,-,-,"14,144.80",-,-,Country,1
+64,Western Pacific,Democratic People's Republic of Korea,-,-,"6,954.50",-,-,Country,2.7
+65,Africa,Democratic Republic of the Congo,-,-,"51,972.90",-,-,Country,2.2
+66,Europe,Denmark,-,-,"1,285.70",-,-,Country,3.1
+67,Africa,Djibouti,-,-,377,-,-,Country,0.4
+68,North America and Caribbean,Dominica,-,-,22.7,-,-,Country,0
+69,South and Central America,Dominican Republic,-,-,"3,932.00",-,-,Country,0.2
+70,South and Central America,Ecuador,-,-,"6,415.30",-,-,Country,1.3
+71,Middle East and North Africa,Egypt,-,-,"44,084.20",-,-,Country,12.2
+72,South and Central America,El Salvador,-,-,"2,289.70",-,-,Country,0.7
+73,Africa,Equatorial Guinea,-,-,663.2,-,-,Country,0.1
+74,Africa,Eritrea,-,-,"1,858.80",-,-,Country,1.9
+75,Europe,Estonia,-,-,283.4,-,-,Country,0.5
+76,Africa,Eswatini,-,-,564,-,-,Country,0.1
+77,Africa,Ethiopia,-,-,"59,765.80",-,-,Country,2.4
+78,Europe,Faroe Islands,-,-,11.3,-,-,Country,0
+79,Western Pacific,Fiji,-,-,336.7,-,-,Country,0
+80,Europe,Finland,-,-,"1,168.00",-,-,Country,5.4
+81,Europe,France,-,-,"15,354.10",-,-,Country,27.1
+82,South and Central America,French Guiana,-,-,-,-,-,Country,-
+83,Western Pacific,French Polynesia,-,-,83.6,-,-,Country,0
+84,Africa,Gabon,-,-,"1,050.00",-,-,Country,0.2
+85,Africa,Gambia,-,-,"1,354.10",-,-,Country,0.1
+86,Europe,Georgia,-,-,"1,026.20",-,-,Country,0.4
+87,Europe,Germany,-,-,"15,843.40",-,-,Country,35.1
+88,Africa,Ghana,-,-,"14,896.60",-,-,Country,2.6
+89,Europe,Greece,-,-,"1,920.30",-,-,Country,2.9
+90,Europe,Greenland,-,-,13.8,-,-,Country,0
+91,North America and Caribbean,Grenada,-,-,34.4,-,-,Country,0
+92,North America and Caribbean,Guadeloupe,-,-,-,-,-,Country,-
+93,Western Pacific,Guam,-,-,53.9,-,-,Country,0
+94,South and Central America,Guatemala,-,-,"7,948.30",-,-,Country,2.4
+95,Africa,Guinea,-,-,"7,254.40",-,-,Country,0.1
+96,Africa,Guinea-Bissau,-,-,"1,053.30",-,-,Country,0
+97,North America and Caribbean,Guyana,-,-,289.9,-,-,Country,0
+98,North America and Caribbean,Haiti,-,-,"4,854.70",-,-,Country,0.1
+99,Europe,Holy See,-,-,0.2,-,-,Country,1.3
+100,South and Central America,Honduras,-,-,"4,067.00",-,-,Country,1.3
+101,Europe,Hungary,-,-,"1,878.00",-,-,Country,3.5
+102,Europe,Iceland,-,-,87.6,-,-,Country,0.1
+103,South-East Asia,India,-,-,"485,464.90",-,-,Country,229.4
+104,Western Pacific,Indonesia,-,-,"94,061.50",-,-,Country,8.6
+105,Middle East and North Africa,Iran (Islamic Republic of),-,-,"26,734.50",-,-,Country,8.2
+106,Middle East and North Africa,Iraq,-,-,"19,587.10",-,-,Country,5
+107,Europe,Ireland,-,-,"1,342.70",-,-,Country,3.4
+108,Europe,Isle of Man,-,-,19.5,-,-,Country,0
+109,Europe,Israel,-,-,"3,116.90",-,-,Country,4.1
+110,Europe,Italy,-,-,"10,610.00",-,-,Country,13.7
+111,North America and Caribbean,Jamaica,-,-,921.9,-,-,Country,0.2
+112,Western Pacific,Japan,-,-,"21,173.80",-,-,Country,4.5
+113,Middle East and North Africa,Jordan,-,-,"4,346.80",-,-,Country,1.3
+114,Europe,Kazakhstan,-,-,"6,730.70",-,-,Country,1
+115,Africa,Kenya,-,-,"27,049.80",-,-,Country,5.3
+116,Western Pacific,Kiribati,-,-,54,-,-,Country,0
+117,Middle East and North Africa,Kuwait,-,-,"1,164.90",-,-,Country,4.4
+118,Europe,Kyrgyzstan,-,-,"2,667.80",-,-,Country,0.4
+119,Western Pacific,Lao People's Democratic Republic,-,-,"3,045.70",-,-,Country,0.2
+120,Europe,Latvia,-,-,402.3,-,-,Country,0.3
+121,Middle East and North Africa,Lebanon,-,-,"2,211.80",-,-,Country,0.6
+122,Africa,Lesotho,-,-,908.6,-,-,Country,0.1
+123,Africa,Liberia,-,-,"2,640.00",-,-,Country,0.1
+124,Middle East and North Africa,Libya,-,-,"2,478.80",-,-,Country,1.8
+125,Europe,Liechtenstein,-,-,8,-,-,Country,0
+126,Europe,Lithuania,-,-,536.5,-,-,Country,0.9
+127,Europe,Luxembourg,-,-,133.6,-,-,Country,0.2
+128,Africa,Madagascar,-,-,"14,388.70",-,-,Country,2.6
+129,Africa,Malawi,-,-,"10,602.10",-,-,Country,2
+130,Western Pacific,Malaysia,-,-,"10,253.70",-,-,Country,1
+131,South-East Asia,Maldives,-,-,134.2,-,-,Country,0.1
+132,Africa,Mali,-,-,"12,086.70",-,-,Country,0.3
+133,Europe,Malta,-,-,84.2,-,-,Country,0.2
+134,Western Pacific,Marshall Islands,-,-,22.7,-,-,Country,0
+135,North America and Caribbean,Martinique,-,-,-,-,-,Country,-
+136,Africa,Mauritania,-,-,"2,368.80",-,-,Country,0.3
+137,South-East Asia,Mauritius,-,-,301.8,-,-,Country,0
+138,Africa,Mayotte,-,-,138,-,-,Country,0
+139,North America and Caribbean,Mexico,-,-,"44,403.80",-,-,Country,14
+140,Western Pacific,Micronesia (Federated States of),-,-,47.4,-,-,Country,0.8
+141,Europe,Monaco,-,-,8.4,-,-,Country,0
+142,Western Pacific,Mongolia,-,-,"1,264.50",-,-,Country,0.2
+143,Europe,Montenegro,-,-,151.9,-,-,Country,0.3
+144,Middle East and North Africa,Morocco,-,-,"12,882.20",-,-,Country,43.3
+145,Africa,Mozambique,-,-,"17,732.80",-,-,Country,1.9
+146,Western Pacific,Myanmar,-,-,"18,809.90",-,-,Country,1.6
+147,Africa,Namibia,-,-,"1,197.60",-,-,Country,0.2
+148,Western Pacific,Nauru,-,-,4.2,-,-,Country,0
+149,South-East Asia,Nepal,-,-,"11,454.80",-,-,Country,5.6
+150,Europe,Netherlands,-,-,"3,678.20",-,-,Country,6.4
+151,North America and Caribbean,Netherlands Antilles,-,-,-,-,-,Country,-
+152,Western Pacific,New Caledonia,-,-,84,-,-,Country,0
+153,Western Pacific,New Zealand,-,-,"1,243.20",-,-,Country,2.2
+154,South and Central America,Nicaragua,-,-,"2,556.40",-,-,Country,0.8
+155,Africa,Niger,-,-,"15,199.30",-,-,Country,0.3
+156,Africa,Nigeria,-,-,"114,122.20",-,-,Country,4.4
+157,Western Pacific,Niue,-,-,-,-,-,Country,-
+158,Western Pacific,Northern Mariana Islands,-,-,22,-,-,Country,0
+159,Europe,North Macedonia,-,-,456.7,-,-,Country,0.3
+160,Europe,Norway,-,-,"1,260.70",-,-,Country,3.8
+161,Middle East and North Africa,Oman,-,-,"1,437.10",-,-,Country,0.3
+162,Middle East and North Africa,Pakistan,-,-,"100,158.20",-,-,Country,5.6
+163,Western Pacific,Palau,-,-,6.8,-,-,Country,0
+164,South and Central America,Panama,-,-,"1,509.80",-,-,Country,0.3
+165,Western Pacific,Papua New Guinea,-,-,"4,115.10",-,-,Country,0
+166,South and Central America,Paraguay,-,-,"2,724.70",-,-,Country,0.2
+167,South and Central America,Peru,-,-,"10,691.70",-,-,Country,0.4
+168,Western Pacific,Philippines,-,-,"43,323.30",-,-,Country,3.9
+169,Europe,Poland,-,-,"7,520.00",-,-,Country,12.5
+170,Europe,Portugal,-,-,"1,829.60",-,-,Country,2.4
+171,South and Central America,Puerto Rico,-,-,614.3,-,-,Country,1.1
+172,Middle East and North Africa,Qatar,-,-,519.7,-,-,Country,1.9
+173,Africa,Réunion,-,-,-,-,-,Country,-
+174,Western Pacific,Republic of Korea,-,-,"8,687.30",-,-,Country,3.6
+175,Europe,Republic of Moldova,-,-,838.3,-,-,Country,0.8
+176,Europe,Romania,-,-,"3,968.20",-,-,Country,3.9
+177,Europe,Russian Federation,-,-,"34,278.30",-,-,Country,38.1
+178,Africa,Rwanda,-,-,"6,598.90",-,-,Country,0.7
+179,North America and Caribbean,Saint Kitts and Nevis,-,-,17,-,-,Country,0
+180,North America and Caribbean,Saint Lucia,-,-,45.3,-,-,Country,0
+181,North America and Caribbean,Saint Vincent and the Grenadines,-,-,32.9,-,-,Country,0
+182,Western Pacific,Samoa,-,-,93.8,-,-,Country,0
+183,Europe,San Marino,-,-,6.3,-,-,Country,0
+184,Africa,Sao Tome and Principe,-,-,118,-,-,Country,0
+185,Middle East and North Africa,Saudi Arabia,-,-,"10,965.70",-,-,Country,28.9
+186,Africa,Senegal,-,-,"9,093.40",-,-,Country,1.5
+187,Europe,Serbia,-,-,"1,833.40",-,-,Country,2.8
+188,Africa,Seychelles,-,-,30,-,-,Country,0
+189,Africa,Sierra Leone,-,-,"4,151.90",-,-,Country,0
+190,Western Pacific,Singapore,-,-,987.7,-,-,Country,0.2
+191,Europe,Slovakia,-,-,"1,115.70",-,-,Country,1.4
+192,Europe,Slovenia,-,-,407.8,-,-,Country,0.6
+193,Western Pacific,Solomon Islands,-,-,352.2,-,-,Country,0
+194,Africa,Somalia,-,-,"9,387.60",-,-,Country,2.4
+195,Africa,South Africa,-,-,"22,175.40",-,-,Country,4.5
+196,Africa,South Sudan,-,-,"5,896.20",-,-,Country,2.7
+197,Europe,Spain,-,-,"8,933.70",-,-,Country,17.2
+198,South-East Asia,Sri Lanka,-,-,"6,709.60",-,-,Country,3.3
+199,Middle East and North Africa,State of Palestine,-,-,"2,509.50",-,-,Country,0.7
+200,Middle East and North Africa,Sudan,-,-,"22,624.30",-,-,Country,16.8
+201,North America and Caribbean,Suriname,-,-,207,-,-,Country,0
+202,Europe,Sweden,-,-,"2,349.40",-,-,Country,9.2
+203,Europe,Switzerland,-,-,"1,734.70",-,-,Country,2.1
+204,Middle East and North Africa,Syrian Arab Republic,-,-,"7,193.80",-,-,Country,1.8
+205,Western Pacific,Taiwan,-,-,"4,163.90",-,-,Country,2.2
+206,Europe,Tajikistan,-,-,"4,466.40",-,-,Country,0.9
+207,Western Pacific,Thailand,-,-,"15,711.20",-,-,Country,1.5
+208,Western Pacific,Timor-Leste,-,-,646,-,-,Country,0.1
+209,Africa,Togo,-,-,"4,334.00",-,-,Country,0.1
+210,Western Pacific,Tokelau,-,-,-,-,-,Country,-
+211,Western Pacific,Tonga,-,-,48.2,-,-,Country,0
+212,North America and Caribbean,Trinidad and Tobago,-,-,369,-,-,Country,0.2
+213,Middle East and North Africa,Tunisia,-,-,"3,682.10",-,-,Country,2.2
+214,Europe,Turkey,-,-,"26,832.10",-,-,Country,25.8
+215,Europe,Turkmenistan,-,-,"2,364.30",-,-,Country,2
+216,Western Pacific,Tuvalu,-,-,4.5,-,-,Country,0
+217,Africa,Uganda,-,-,"26,898.40",-,-,Country,4.6
+218,Europe,Ukraine,-,-,"8,949.90",-,-,Country,6.7
+219,Middle East and North Africa,United Arab Emirates,-,-,"1,920.30",-,-,Country,0.4
+220,Europe,United Kingdom,-,-,"15,746.20",-,-,Country,31.6
+221,Africa,United Republic of Tanzania,-,-,"33,293.90",-,-,Country,5.7
+222,North America and Caribbean,United States of America,-,-,"82,080.90",-,-,Country,157.9
+223,South and Central America,Uruguay,-,-,947.3,-,-,Country,0.6
+224,North America and Caribbean,US Virgin Islands,-,-,26.5,-,-,Country,0
+225,Europe,Uzbekistan,-,-,"12,321.70",-,-,Country,2.8
+226,Western Pacific,Vanuatu,-,-,151.1,-,-,Country,0
+227,South and Central America,Venezuela (Bolivarian Republic of),-,-,"10,169.70",-,-,Country,0.1
+228,Western Pacific,Viet Nam,-,-,"29,299.60",-,-,Country,2.6
+229,Middle East and North Africa,Yemen,-,-,"14,970.70",-,-,Country,2.8
+230,Africa,Zambia,-,-,"10,429.70",-,-,Country,1.6
+231,Africa,Zimbabwe,-,-,"7,914.40",-,-,Country,1.3
